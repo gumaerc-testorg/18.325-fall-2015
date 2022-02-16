@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3c31a2c5-adb7-ed8a-cfd1-ef8337ac76f8
 ---
@@ -43,7 +46,7 @@ Solve exercises 2, 5, and 7 in the exercises section at the end of [Chapter 3 (P
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Do [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_325f15_hw3). Download and load the dataset [ct.mat (MAT)]({{< baseurl >}}/resources/ct) in MATLAB®
+Do [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_325f15_hw3). Download and load the dataset [ct.mat (MAT)]({{< baseurl >}}/resources/ct) in MATLAB{{< sup "®" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
