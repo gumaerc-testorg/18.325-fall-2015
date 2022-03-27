@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7b54e7b-c987-5ea5-1847-929354bc5dfa
 resourcetype: Document
 title: Waves and Imaging, Synthetic-aperture Radar
 uid: ba42f697-8da7-859d-b040-b248c5412048

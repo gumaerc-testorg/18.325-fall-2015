@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7b54e7b-c987-5ea5-1847-929354bc5dfa
 resourcetype: Document
 title: Waves and Imaging, Full set of lecture notes in one file
 uid: c5db24b1-a6d0-d330-1b1a-3f21f6ceba3a

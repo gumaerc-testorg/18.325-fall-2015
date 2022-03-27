@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7b54e7b-c987-5ea5-1847-929354bc5dfa
 resourcetype: Document
 title: Waves and Imaging, Front Matter, including Table of Contents
 uid: b8376f1e-9458-6266-8d11-626e0f0e55d5

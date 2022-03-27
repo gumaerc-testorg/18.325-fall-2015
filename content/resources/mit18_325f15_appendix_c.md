@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7b54e7b-c987-5ea5-1847-929354bc5dfa
 resourcetype: Document
 title: Waves and Imaging, Stationary Phase
 uid: d889f5a7-e724-4d13-ed81-1f1e1e4d5831

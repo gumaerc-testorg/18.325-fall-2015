@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7b54e7b-c987-5ea5-1847-929354bc5dfa
 resourcetype: Document
 title: Waves and Imaging, Seismic Imaging
 uid: 9a90f43f-f3f9-a882-1171-7c35d6af3f35
