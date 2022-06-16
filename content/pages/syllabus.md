@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, readings, requirements, grading, and the schedule
+  of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +27,7 @@ This class covers the mathematics of inverse problems involving waves, with exam
 Textbook
 --------
 
-There is not one textbook. The material will be inspired from various sources. See the [readings]({{< baseurl >}}/pages/readings) section for a list of references that sometimes go way beyond what we'll do in class.
+There is not one textbook. The material will be inspired from various sources. See the {{% resource_link 790a976a-ad17-92e7-bc48-10055023359c "readings" %}} section for a list of references that sometimes go way beyond what we'll do in class.
 
 Requirements
 ------------

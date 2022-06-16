@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/ba42f6978da7859db040b248c5412048_MIT18_325F15_Chapter5.pdf
+file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/ba42f6978da7859db040b248c5412048_MIT18_325F15_Chapter5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
