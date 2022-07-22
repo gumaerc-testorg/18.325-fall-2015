@@ -6,6 +6,7 @@ file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Waves and Imaging, Stationary Phase
 uid: d889f5a7-e724-4d13-ed81-1f1e1e4d5831
 ---
 This resource contains the information regarding Appendix C: Stationary Phase.
-

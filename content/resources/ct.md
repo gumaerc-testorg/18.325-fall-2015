@@ -5,6 +5,7 @@ file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ct.mat
 uid: fb5b5532-23b4-7d99-2a53-c26e3a76dc65
 ---
 This is the special file regarding ct.mat
-

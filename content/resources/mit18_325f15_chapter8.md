@@ -6,6 +6,7 @@ file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Waves and Imaging, Microlocal Analysis of Imaging
 uid: d7a4d844-9f91-22e5-2aac-c2858eb0bd51
 ---
 This resource contains the information regarding Chapter 8: Microlocal Analysis of Imaging.
-
