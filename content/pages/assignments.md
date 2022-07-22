@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course and a list
+  of potential papers for an oral presentation assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3c31a2c5-adb7-ed8a-cfd1-ef8337ac76f8
 ---
@@ -25,7 +30,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Solve exercises 2, 3, 7, and 8 in the exercises section at the end of [Chapter 1 (PDF)]({{< baseurl >}}/resources/mit18_325f15_chapter1) in the lecture notes.
+Solve exercises 2, 3, 7, and 8 in the exercises section at the end of {{% resource_link 42852dfe-83c5-197f-19ce-740818fb92a1 "Chapter 1 (PDF)" %}} in the lecture notes.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +39,7 @@ Solve exercises 2, 3, 7, and 8 in the exercises section at the end of [Chapter 1
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Solve exercises 2, 5, and 7 in the exercises section at the end of [Chapter 3 (PDF)]({{< baseurl >}}/resources/mit18_325f15_chapter3) in the lecture notes.
+Solve exercises 2, 5, and 7 in the exercises section at the end of {{% resource_link 15588369-c29a-866b-a59b-450518ba486a "Chapter 3 (PDF)" %}} in the lecture notes.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +48,7 @@ Solve exercises 2, 5, and 7 in the exercises section at the end of [Chapter 3 (P
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Do [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_325f15_hw3). Download and load the dataset [ct.mat (MAT)]({{< baseurl >}}/resources/ct) in MATLAB®
+Do {{% resource_link 43df046d-11ac-96c0-eb4a-3ac04d928006 "Problem Set 3 (PDF)" %}}. Download and load the dataset {{% resource_link fb5b5532-23b4-7d99-2a53-c26e3a76dc65 "ct.mat (MAT)" %}} in MATLAB{{< sup "®" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Do [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_325f15_hw3). Download a
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Solve exercise 3 in [Chapter 3 (PDF)]({{< baseurl >}}/resources/mit18_325f15_chapter3), exercise 1 in [Chapter 5 (PDF)]({{< baseurl >}}/resources/mit18_325f15_chapter5), and exercise 2 in [Chapter 2 (PDF)]({{< baseurl >}}/resources/mit18_325f15_chapter2) in the lecture notes.
+Solve exercise 3 in {{% resource_link 15588369-c29a-866b-a59b-450518ba486a "Chapter 3 (PDF)" %}}, exercise 1 in {{% resource_link ba42f697-8da7-859d-b040-b248c5412048 "Chapter 5 (PDF)" %}}, and exercise 2 in {{% resource_link ef8d8479-be54-5618-27f9-3c7006e2a040 "Chapter 2 (PDF)" %}} in the lecture notes.
 {{< tdclose >}}
 
 {{< trclose >}}
