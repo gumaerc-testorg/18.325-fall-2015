@@ -2,6 +2,7 @@
 content_type: resource
 description: This is the special file regarding ct.mat
 file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/fb5b553223b47d992a53c26e3a76dc65_ct.mat
+file_size: 267914
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
