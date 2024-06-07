@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Chapter 8: Microlocal
   Analysis of Imaging.'
 file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/d7a4d8449f9122e52aacc2858eb0bd51_MIT18_325F15_Chapter8.pdf
+file_size: 389134
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
