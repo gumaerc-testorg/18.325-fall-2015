@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding  Chapter 6: Waves and
   Imaging, Computerized Tomography.'
-file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/fe6e815d7abf9c0ca3351174ec6c585d_MIT18_325F15_Chapter6.pdf
+file: /ol-ocw-studio-app/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/fe6e815d7abf9c0ca3351174ec6c585d_MIT18_325F15_Chapter6.pdf
 file_size: 344222
 file_type: application/pdf
 learning_resource_types:
