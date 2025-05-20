@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Chapter 4: Adjoint-state
   Methods.'
-file: /ol-ocw-studio-app/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/d7f2deb3f507b44b4d853cd229bf96c5_MIT18_325F15_Chapter4.pdf
+file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/d7f2deb3f507b44b4d853cd229bf96c5_MIT18_325F15_Chapter4.pdf
 file_size: 403556
 file_type: application/pdf
 learning_resource_types:
