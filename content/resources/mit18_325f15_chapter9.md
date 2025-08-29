@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding Chapter 9: Optimization.'
-file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/75f6561745b3dd2af7f44c89ee34a4bc_MIT18_325F15_Chapter9.pdf
+file: /ol-ocw-studio-app/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/75f6561745b3dd2af7f44c89ee34a4bc_MIT18_325F15_Chapter9.pdf
 file_size: 252937
 file_type: application/pdf
 learning_resource_types:

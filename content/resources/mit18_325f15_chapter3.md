@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Chapter 3: Scattering
   Series.'
-file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/15588369c29a866ba59b450518ba486a_MIT18_325F15_Chapter3.pdf
+file: /ol-ocw-studio-app/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/15588369c29a866ba59b450518ba486a_MIT18_325F15_Chapter3.pdf
 file_size: 414648
 file_type: application/pdf
 learning_resource_types:
