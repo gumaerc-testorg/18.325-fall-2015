@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding Chapter 1: Wave Equations.'
-file: /ol-ocw-studio-app/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/42852dfe83c5197f19ce740818fb92a1_MIT18_325F15_Chapter1.pdf
+file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/42852dfe83c5197f19ce740818fb92a1_MIT18_325F15_Chapter1.pdf
 file_size: 1056856
 file_type: application/pdf
 learning_resource_types:
