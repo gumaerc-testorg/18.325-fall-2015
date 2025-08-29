@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Chapter 2: Geometrical
   Optics.'
-file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/ef8d8479be54561827f93c7006e2a040_MIT18_325F15_Chapter2.pdf
+file: /ol-ocw-studio-app/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/ef8d8479be54561827f93c7006e2a040_MIT18_325F15_Chapter2.pdf
 file_size: 367985
 file_type: application/pdf
 learning_resource_types:

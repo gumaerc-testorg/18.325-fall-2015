@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Appendix C: Stationary
   Phase.'
-file: /courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/d889f5a7e7244d13ed811f1e1e4d5831_MIT18_325F15_Appendix_C.pdf
+file: /ol-ocw-studio-app/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/d889f5a7e7244d13ed811f1e1e4d5831_MIT18_325F15_Appendix_C.pdf
 file_size: 359183
 file_type: application/pdf
 learning_resource_types:
