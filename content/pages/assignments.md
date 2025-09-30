@@ -71,12 +71,12 @@ Students are required to give an oral presentation of a good (landmark, foundati
 
 The following is a list of some advanced papers. Some may be adequate for the term paper presentation.
 
-Lewis, R., and W. Symes. "[On the Relation Between the Velocity Coefficient and Boundary Value for Solutions of the One-dimensional Wave Equation](http://dx.doi.org/10.1088/0266-5611/7/4/008)." _Inverse Problems_ 7, no. 4 (1991): 597–631.
+Lewis, R., and W. Symes. "{{% resource_link "33635a81-53d5-47d8-81ab-84bd3f1845d2" "On the Relation Between the Velocity Coefficient and Boundary Value for Solutions of the One-dimensional Wave Equation" %}}." _Inverse Problems_ 7, no. 4 (1991): 597–631.
 
-Beylkin, Gregory. "[Imaging of Discontinuities in the Inverse Scattering Problem by Inversion of a Causal Generalized Radon Transform](http://dx.doi.org/10.1063/1.526755)." _Journal of Mathematical Physics_ 26, no. 1 (1985): 99.
+Beylkin, Gregory. "{{% resource_link "747bcfb1-1ddb-41fe-b542-769faada4650" "Imaging of Discontinuities in the Inverse Scattering Problem by Inversion of a Causal Generalized Radon Transform" %}}." _Journal of Mathematical Physics_ 26, no. 1 (1985): 99.
 
-Kroode, A. P. E. ten, D. -J. Smit, et al. "[A Microlocal Analysis of Migration](http://dx.doi.org/10.1016/S0165-2125(98)00004-3)." _Wave Motion_ 28, no. 2 (1998): 149–72.
+Kroode, A. P. E. ten, D. -J. Smit, et al. "{{% resource_link "7d25758e-8fbf-449b-b499-9fa8eb4ece3f" "A Microlocal Analysis of Migration" %}}." _Wave Motion_ 28, no. 2 (1998): 149–72.
 
-Bruckstein, Alfred M., Bernard C. Levy, et al. "[Differential Methods in Inverse Scattering](http://www.cs.technion.ac.il/FREDDY/papers/7.pdf)." _Society of Industrial and Applied Mathematics_ 45, no. 2 (1985): 312–35.
+Bruckstein, Alfred M., Bernard C. Levy, et al. "{{% resource_link "9a6ee626-c3b0-4408-a41c-0c607a64eac6" "Differential Methods in Inverse Scattering" %}}." _Society of Industrial and Applied Mathematics_ 45, no. 2 (1985): 312–35.
 
 Gelfand, I. M., and B. M. Levitan. "On the Determination of a Differential Equation from its Spectral Function." _Izvestiya Rossiiskoi Akademii Nauk Seriya Matematicheskaya_ 15, no. 4 (1951): 309–60.
